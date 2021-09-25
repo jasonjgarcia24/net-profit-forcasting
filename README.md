@@ -21,16 +21,22 @@ Following the translation and predictions of the time series data, this project 
 #### Project layout:
 The layout of this project is show below.<br>
 .<br>
-├── crypto_investments.ipynb<br>
 ├── data<br>
-│   └── crypto_market_data.csv<br>
+│   ├── google_hourly_search_trends.csv<br>
+│   ├── mercado_daily_revenue.csv<br>
+│   └── mercado_stock_price.csv<br>
+├── forecasting_net_prophet.ipynb<br>
 ├── img<br>
-│   ├── crypto-performance-clustering.png<br>
-│   └── elbow-plot.png<br>
-│   └── project_tree.png<br>
+│   ├── mercadolibre-daily-revenue.png<br>
+│   ├── mercadolibre-hourly-stock-price.png<br>
+│   ├── mercadolibre-hourly-trends-day-of-week.png<br>
+│   ├── mercadolibre-hourly-trends-week-of-year.png<br>
+│   ├── mercadolibre-predicted-daily-revenue.png<br>
+│   ├── mercadolibre-predicted-stock-price.png<br>
+│   ├── mercadolibre-trends-daily-revenue.png<br>
+│   └── mercadolibre-trends-stock-price.png<br>
 ├── LICENSE<br>
 ├── README.md<br>
-├── requirements.txt<br>
 └── tree.txt<br>
 
 ***

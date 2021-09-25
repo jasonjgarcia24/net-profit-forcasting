@@ -1,0 +1,18 @@
+.
+├── data
+│   ├── google_hourly_search_trends.csv
+│   ├── mercado_daily_revenue.csv
+│   └── mercado_stock_price.csv
+├── forecasting_net_prophet.ipynb
+├── img
+│   ├── mercadolibre-daily-revenue.png
+│   ├── mercadolibre-hourly-stock-price.png
+│   ├── mercadolibre-hourly-trends-day-of-week.png
+│   ├── mercadolibre-hourly-trends-week-of-year.png
+│   ├── mercadolibre-predicted-daily-revenue.png
+│   ├── mercadolibre-predicted-stock-price.png
+│   ├── mercadolibre-trends-daily-revenue.png
+│   └── mercadolibre-trends-stock-price.png
+├── LICENSE
+├── README.md
+└── tree.txt
