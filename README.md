@@ -1,7 +1,7 @@
 # Welcome to the Net Profit Forcasting Project!
 #### Forecasting with Facebook Prophet
 ***
-## <a id="Contents">Cotents</a>
+## Cotents<a id="Contents">
 [Project Description](#Project-Description)<br>
 [Technologies and Resources](#Technologies-Resources)<br>
 [Installation Guide](#Installation-Guide)<br>
@@ -12,7 +12,7 @@
 
 ***
 ## <a id="Project-Description">Project Description</a>
-This project applies time series analysis for forecasting, using Facebook Prophet, to identify trends and build predictions for both stock price and sales growth of the popular Latin American e-commerce giant <a href="https://mercadolibre.com/" title="https://mercadolibre.com/" target="_blank">MercadoLibre</a>. It also identifies MercadoLibre's online presence by analyzing related Google traffic over a period of time. Together this data can be compared to gte a better understanding of hourly, daily, monthly, and seasonal impacts on MercadoLibre's activity.<br>
+This project applies time series analysis for forecasting, using Facebook Prophet, to identify trends and build predictions for both stock price and sales growth of the popular Latin American e-commerce giant <a href="https://mercadolibre.com/" title="https://mercadolibre.com/" target="_blank">MercadoLibre</a>. It also identifies MercadoLibre's online presence by analyzing related Google traffic over a period of time. Together this data can be compared to gte a better understanding of hourly, daily, monthly, and seasonal impacts on MercadoLibre's customer activity.<br>
 
 By using Facebook Prophet, we are able to build a story of where the sales growth is currently at and where we believe it will be by identifying both short- and long-term trends. This project allows us to build this story by providing daily, weekly, monthly, and yearly visualizations to quickly understand and conclude high and low activity periods. This constructive information can aid in actionable, targeted responses for improved sales growth on all levels.<br>
 
@@ -93,7 +93,7 @@ Currently just me :)<br>
 
 ***
 ## <a id="License">License</a>
-Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/ml-performance-clustering/blob/2370b0c29d2c11c57d7c41d581612a5ca8c35503/LICENSE" title="LICENSE">MIT License.</a>
+Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/net-profit-forcasting/blob/c95b7c4ebcb37ac7e5f2f91505f7e796137f99eb/LICENSE" title="LICENSE">MIT License.</a>
 
 ***
 [Top of Page](#Top-of-Page)<br>
